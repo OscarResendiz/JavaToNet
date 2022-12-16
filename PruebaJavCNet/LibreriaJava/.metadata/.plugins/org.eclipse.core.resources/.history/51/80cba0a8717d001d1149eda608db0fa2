@@ -1,0 +1,6 @@
+module LibreriaJava {
+	string mensaje()
+	{
+		return "Hola mundo";
+	}
+}
